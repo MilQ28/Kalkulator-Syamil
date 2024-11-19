@@ -1,0 +1,10 @@
+D:\Visual Studio Kalku\Simple Calcu\Simple Calcu\bin\Debug\Simple Calcu.exe.config
+D:\Visual Studio Kalku\Simple Calcu\Simple Calcu\bin\Debug\Simple Calcu.exe
+D:\Visual Studio Kalku\Simple Calcu\Simple Calcu\bin\Debug\Simple Calcu.pdb
+D:\Visual Studio Kalku\Simple Calcu\Simple Calcu\obj\Debug\Simple Calcu.csproj.AssemblyReference.cache
+D:\Visual Studio Kalku\Simple Calcu\Simple Calcu\obj\Debug\Simple_Calcu.Form1.resources
+D:\Visual Studio Kalku\Simple Calcu\Simple Calcu\obj\Debug\Simple_Calcu.Properties.Resources.resources
+D:\Visual Studio Kalku\Simple Calcu\Simple Calcu\obj\Debug\Simple Calcu.csproj.GenerateResource.cache
+D:\Visual Studio Kalku\Simple Calcu\Simple Calcu\obj\Debug\Simple Calcu.csproj.CoreCompileInputs.cache
+D:\Visual Studio Kalku\Simple Calcu\Simple Calcu\obj\Debug\Simple Calcu.exe
+D:\Visual Studio Kalku\Simple Calcu\Simple Calcu\obj\Debug\Simple Calcu.pdb

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio Kalku\\Simple Calcu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A365156-861C-4F1E-A7B2-93AA8375E605}|Simple Calcu\\Simple Calcu.csproj|d:\\visual studio kalku\\simple calcu\\simple calcu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A365156-861C-4F1E-A7B2-93AA8375E605}|Simple Calcu\\Simple Calcu.csproj|solutionrelative:simple calcu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A365156-861C-4F1E-A7B2-93AA8375E605}|Simple Calcu\\Simple Calcu.csproj|D:\\Visual Studio Kalku\\Simple Calcu\\simple calcu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A365156-861C-4F1E-A7B2-93AA8375E605}|Simple Calcu\\Simple Calcu.csproj|solutionrelative:simple calcu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Visual Studio Kalku\\Simple Calcu\\Simple Calcu\\Form1.cs",
+              "RelativeDocumentMoniker": "Simple Calcu\\Form1.cs",
+              "ToolTip": "D:\\Visual Studio Kalku\\Simple Calcu\\Simple Calcu\\Form1.cs",
+              "RelativeToolTip": "Simple Calcu\\Form1.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAIA7wEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:45:27.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Visual Studio Kalku\\Simple Calcu\\Simple Calcu\\Form1.cs",
+              "RelativeDocumentMoniker": "Simple Calcu\\Form1.cs",
+              "ToolTip": "D:\\Visual Studio Kalku\\Simple Calcu\\Simple Calcu\\Form1.cs [Design]",
+              "RelativeToolTip": "Simple Calcu\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:41:55.435Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
